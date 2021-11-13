@@ -16,11 +16,13 @@ This repository contains recipes for the Keto diet, Traeger Grill, Air Fryer, an
   - [https://www.traegergrills.com/](https://www.traegergrills.com/)
   - [Pro 575 Bronze](https://www.traegergrills.com/pellet-grills/pro/575-bronze)
   - [Guides](https://www.traegergrills.com/learn/reference)
-  - [Wood Pellet Guide](https://www.traegergrills.com/learn/wood-pellet-guide)
+  - [Wood Pellet Guide](./traeger/traegerGrillWoodPelletGuide.md)
   - [Tutorials on Grill Care](https://www.traegergrills.com/learn/grill-care)
   - [How to clean and maintain grill](https://www.traegergrills.com/learn/how-to-clean-maintain-grill)
 - **Recipes**
-  - 
+  - [Cowboy Cut Steak](./traeger/cowboyCutSteak.md)
+  - [Hamburgers](./traeger/hamburgers.md)
+  - [Rack of Labm](./traeger/rackOfLamb.md)
 
 <br>
 
@@ -53,6 +55,3 @@ This repository contains recipes for the Keto diet, Traeger Grill, Air Fryer, an
   - [https://www.wholesomeyum.com/recipes/low-carb-keto-cream-cheese-cookies/](https://www.wholesomeyum.com/recipes/low-carb-keto-cream-cheese-cookies/)
   - [https://www.delish.com/cooking/recipe-ideas/recipes/a58711/keto-cheesecake-recipe/](https://www.delish.com/cooking/recipe-ideas/recipes/a58711/keto-cheesecake-recipe/)
   - [https://www.delish.com/cooking/recipe-ideas/a25752891/keto-chocolate-chip-cookie-recipe/](https://www.delish.com/cooking/recipe-ideas/a25752891/keto-chocolate-chip-cookie-recipe/)
-
-
-<br>
