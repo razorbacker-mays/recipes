@@ -6,13 +6,9 @@ This repository contains recipes for the Keto diet, Traeger Grill, Air Fryer, an
 
 
 ## Table of Contents
-- [Traeger Grill]()
-- [Air Fryer]()
-- [Keto]()
-- []()
-
-<br>
-<br>
+- [Traeger Grill](#traeger-grill)
+- [Air Fryer](#air-fryer)
+- [Keto](#keto)
 
 
 ## Traeger Grill
