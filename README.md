@@ -25,6 +25,7 @@ This repository contains recipes for the Keto diet, Traeger Grill, Air Fryer, an
 - [Air Fryer Bacon](./airFryer/airFryerBacon.md)
 - [Air Fryer Fried Egg](./airFryer/airFryerFriedEgg.md)
 - [Air Fryer Egg Cups](./airFryer/airFryerEggCups.md)
+- [Air Fryer Lamb Chops](./airFryer/airFryerLambChops.md)
 
 <br>
 
