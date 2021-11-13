@@ -22,7 +22,7 @@ This repository contains recipes for the Keto diet, Traeger Grill, Air Fryer, an
 - **Recipes**
   - [Cowboy Cut Steak](./traeger/cowboyCutSteak.md)
   - [Hamburgers](./traeger/hamburgers.md)
-  - [Rack of Labm](./traeger/rackOfLamb.md)
+  - [Rack of Lamb](./traeger/rackOfLamb.md)
 
 <br>
 
