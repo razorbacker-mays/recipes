@@ -37,6 +37,7 @@ This repository contains recipes for the Keto diet, Traeger Grill, Air Fryer, an
 - [Chaffles](./keto/chaffles.md)
 - [Pumpkin Chaffles](./keto/pumpkinChaffles.md)
 - [Keto Cheesecake](./keto/ketoCheesecake.md)
+- [Seared Ahi Tuna Steaks](https://www.allrecipes.com/recipe/160099/seared-ahi-tuna-steaks/)
 - [Low carb and Keto Air Fryer Recipes](https://kalynskitchen.com/low-carb-and-keto-air-fryer-recipes/)
 - **Seasonings**
   - [Fajita Seasoning](https://www.spendwithpennies.com/fajita-seasoning/)
