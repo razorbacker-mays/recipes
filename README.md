@@ -12,8 +12,15 @@ This repository contains recipes for the Keto diet, Traeger Grill, Air Fryer, an
 
 
 ## Traeger Grill
-....
-
+- **General**
+  - [https://www.traegergrills.com/](https://www.traegergrills.com/)
+  - [Pro 575 Bronze](https://www.traegergrills.com/pellet-grills/pro/575-bronze)
+  - [Guides](https://www.traegergrills.com/learn/reference)
+  - [Wood Pellet Guide](https://www.traegergrills.com/learn/wood-pellet-guide)
+  - [Tutorials on Grill Care](https://www.traegergrills.com/learn/grill-care)
+  - [How to clean and maintain grill](https://www.traegergrills.com/learn/how-to-clean-maintain-grill)
+- **Recipes**
+  - 
 
 <br>
 
