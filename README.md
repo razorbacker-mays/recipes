@@ -38,7 +38,7 @@ This repository contains recipes for the Keto diet, Traeger Grill, Air Fryer, an
 - **General**
   - [The Ketogenic Diet: A Detailed Beginner's Guide to Keto](https://www.healthline.com/nutrition/ketogenic-diet-101)
   - [https://thatlowcarblife.com/](https://thatlowcarblife.com/)
-- Meals
+- **Meals**
   - [Keto Pancakes](./keto/ketoPancakes.md)
   - [Keto Blueberry Pancakes](./keto/ketoBlueberryPancakes.md)
   - [Chaffles](./keto/chaffles.md)
