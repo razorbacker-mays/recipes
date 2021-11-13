@@ -22,10 +22,11 @@ This repository contains recipes for the Keto diet, Traeger Grill, Air Fryer, an
 <br>
 
 ## Air Fryer
-....
+- [Air Fryer Bacon](./airFryer/airFryerBacon.md)
+- [Air Fryer Fried Egg](./airFryer/airFryerFriedEgg.md)
+- [Air Fryer Egg Cups](./airFryer/airFryerEggCups.md)
 
 <br>
-
 
 ## Keto
 - **General**
