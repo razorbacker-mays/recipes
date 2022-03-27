@@ -1,4 +1,4 @@
-# Easy, Fast Buttermilk Biscuits
+# Pie Spiced Apple Fritters
 Serves 6
 
 <br>
