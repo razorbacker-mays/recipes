@@ -6,9 +6,19 @@ This repository contains recipes for the Keto diet, Traeger Grill, Air Fryer, an
 
 
 ## Table of Contents
+- [General](#general)
 - [Traeger Grill](#traeger-grill)
 - [Air Fryer](#air-fryer)
 - [Keto](#keto)
+
+<br>
+
+## General
+- [Easy Fast Buttermilk Biscuits](./general/easyFastButtermilkBiscuits.md)
+- [Lamb Chops and Lamb Rack](./general/lambChopsLambRack.md)
+- [Chicken with Sauteed Apples and Mushrooms](./general/chickenWithSauteedApplesAndMushrooms.md)
+- [English Muffin Pizzas](./general/englishMuffinPizzas.md)
+- [Pie-Spiced Apple Fritters](./general/pieSpicedAppleFritters.md)
 
 <br>
 
