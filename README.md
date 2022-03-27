@@ -19,6 +19,7 @@ This repository contains recipes for the Keto diet, Traeger Grill, Air Fryer, an
 - [Chicken with Sauteed Apples and Mushrooms](./general/chickenWithSauteedApplesAndMushrooms.md)
 - [English Muffin Pizzas](./general/englishMuffinPizzas.md)
 - [Pie-Spiced Apple Fritters](./general/pieSpicedAppleFritters.md)
+- [Sheet Pan Sausage Egg Breakfast Bake](./general/sheetPanSausageEggBreakfastBake.md)
 
 <br>
 
