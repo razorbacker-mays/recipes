@@ -3,6 +3,10 @@ Yields two servings. Prep / cook time: 15 minutes.
 
 <br>
 
+![Chocolate Banana Cake](./images/chocobananaCake.jpg "Chocolate Banana Cake")
+
+<br>
+
 ## Ingredients
 - Cake
   - 1 cup sugar
@@ -27,12 +31,29 @@ Yields two servings. Prep / cook time: 15 minutes.
 
 
 ## Instructions
-1. Gather your ingredients
-2. Heat oven to 350 degrees
-3. Bake the plain english muffin on a cookie sheet for about 4 minutes
-4. As it begins to toast, remove it from the oven and top each half with sauce and cheese equally
-5. Bake in the oven for another 8 minutes (or until the cheese is melted)
-6. Broil for 1 minute to get that golden-brown bubbly cheese
+- Cake
+  1. Heat oven to 350 degrees
+  2. Grease two 9-inch cake pans; set aside
+  3. In a large bowl, whisk together sugar, flour, cocoa powder, baking soda, baking powder, and salt
+  4. Add bananas, canola oil, chocolate milk, and eggs
+  5. Using an electric mixer, beat until thoroughly combined, scraping down sides of bowl
+  6. Evenly pour batter into prepared pans
+  7. Bake for 29 - 32 minutes or until a toothpick inserted in center comes out clean
+  8. Allow cake to cool completely before frosting
+
+- Frosting
+  1. Beat together peanut butter and butter in a large bowl
+  2. Add vanilla extract and cocoa powder
+  3. Gradually beat in powdered sugar and water
+  4. If frosting is too thick for your liking, add extra water. (1 tablespoon at a time)
+
+- Combination of cake and frosting
+  1. Spread top of one cooled cake layer with frosting
+  2. Top with second cake layer
+  3. Frost cake
+  4. If desired, top with banana slices
+  5. Serve
+  6. Refrigerate leftovers covered in plastic wrap
 
 
 ## Nutrition
