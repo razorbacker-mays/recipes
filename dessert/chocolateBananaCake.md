@@ -8,7 +8,7 @@ Yields two servings. Prep / cook time: 15 minutes.
 <br>
 
 ## Ingredients
-- Cake
+- **Cake**
   - 1 cup sugar
   - 2 cups cake flour, sifted
   - 1/3 cup cocoa powder
@@ -20,7 +20,7 @@ Yields two servings. Prep / cook time: 15 minutes.
   - 1/2 cup chocolate milk
   - 3 eggs, whisked 
 
-- Frosting
+- **Frosting**
   - 1/2 cup peanut butter
   - 4 tablespoons unsalted butter, softened
   - 1 teaspoon vanilla extract
@@ -31,29 +31,29 @@ Yields two servings. Prep / cook time: 15 minutes.
 
 
 ## Instructions
-- Cake
-  1. Heat oven to 350 degrees
-  2. Grease two 9-inch cake pans; set aside
-  3. In a large bowl, whisk together sugar, flour, cocoa powder, baking soda, baking powder, and salt
-  4. Add bananas, canola oil, chocolate milk, and eggs
-  5. Using an electric mixer, beat until thoroughly combined, scraping down sides of bowl
-  6. Evenly pour batter into prepared pans
-  7. Bake for 29 - 32 minutes or until a toothpick inserted in center comes out clean
-  8. Allow cake to cool completely before frosting
+- **Cake** 
+1. Heat oven to 350 degrees
+2. Grease two 9-inch cake pans; set aside
+3. In a large bowl, whisk together sugar, flour, cocoa powder, baking soda, baking powder, and salt
+4. Add bananas, canola oil, chocolate milk, and eggs
+5. Using an electric mixer, beat until thoroughly combined, scraping down sides of bowl
+6. Evenly pour batter into prepared pans
+7. Bake for 29 - 32 minutes or until a toothpick inserted in center comes out clean
+8. Allow cake to cool completely before frosting
 
-- Frosting
-  1. Beat together peanut butter and butter in a large bowl
-  2. Add vanilla extract and cocoa powder
-  3. Gradually beat in powdered sugar and water
-  4. If frosting is too thick for your liking, add extra water. (1 tablespoon at a time)
+- **Frosting**
+1. Beat together peanut butter and butter in a large bowl
+2. Add vanilla extract and cocoa powder
+3. Gradually beat in powdered sugar and water
+4. If frosting is too thick for your liking, add extra water. (1 tablespoon at a time)
 
-- Combination of cake and frosting
-  1. Spread top of one cooled cake layer with frosting
-  2. Top with second cake layer
-  3. Frost cake
-  4. If desired, top with banana slices
-  5. Serve
-  6. Refrigerate leftovers covered in plastic wrap
+- **Combination of cake and frosting**
+1. Spread top of one cooled cake layer with frosting
+2. Top with second cake layer
+3. Frost cake
+4. If desired, top with banana slices
+5. Serve
+6. Refrigerate leftovers covered in plastic wrap
 
 
 ## Nutrition
