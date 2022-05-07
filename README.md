@@ -10,6 +10,7 @@ This repository contains recipes for the Keto diet, Traeger Grill, Air Fryer, an
 - [Traeger Grill](#traeger-grill)
 - [Air Fryer](#air-fryer)
 - [Keto](#keto)
+- [Desserts](#desserts)
 
 <br>
 
@@ -67,3 +68,8 @@ This repository contains recipes for the Keto diet, Traeger Grill, Air Fryer, an
   - [https://www.wholesomeyum.com/recipes/low-carb-keto-cream-cheese-cookies/](https://www.wholesomeyum.com/recipes/low-carb-keto-cream-cheese-cookies/)
   - [https://www.delish.com/cooking/recipe-ideas/recipes/a58711/keto-cheesecake-recipe/](https://www.delish.com/cooking/recipe-ideas/recipes/a58711/keto-cheesecake-recipe/)
   - [https://www.delish.com/cooking/recipe-ideas/a25752891/keto-chocolate-chip-cookie-recipe/](https://www.delish.com/cooking/recipe-ideas/a25752891/keto-chocolate-chip-cookie-recipe/)
+
+<br>
+
+## Desserts
+-[Chocolate Banana Cake with Peanut Butter Frosting](./dessert/chocolateBananaCake.md)
