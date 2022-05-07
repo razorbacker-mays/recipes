@@ -72,4 +72,4 @@ This repository contains recipes for the Keto diet, Traeger Grill, Air Fryer, an
 <br>
 
 ## Desserts
--[Chocolate Banana Cake with Peanut Butter Frosting](./dessert/chocolateBananaCake.md)
+- [Chocolate Banana Cake with Peanut Butter Frosting](./dessert/chocolateBananaCake.md)
