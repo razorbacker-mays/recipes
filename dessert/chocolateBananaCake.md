@@ -41,11 +41,15 @@ Yields two servings. Prep / cook time: 15 minutes.
 7. Bake for 29 - 32 minutes or until a toothpick inserted in center comes out clean
 8. Allow cake to cool completely before frosting
 
+<br>
+
 - **Frosting**
 1. Beat together peanut butter and butter in a large bowl
 2. Add vanilla extract and cocoa powder
 3. Gradually beat in powdered sugar and water
 4. If frosting is too thick for your liking, add extra water. (1 tablespoon at a time)
+
+<br>
 
 - **Combination of cake and frosting**
 1. Spread top of one cooled cake layer with frosting
